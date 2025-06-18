@@ -109,6 +109,8 @@ Build a client-side car rental platform that enables:
 2. Open `index.html` in any modern web browser.
 3. Customers can browse and book directly.
 4. Admins must log in to access the dashboard .
+5. Register with admin@car-rental.com with password: admin123
+6. Then login with admin account to access dashboard and add cars to local storage
 
 ## 👨‍💻 Team
 
